@@ -132,4 +132,4 @@ print()
 print()
 print("Hi " + name_of_student + ", thank you for using my calculator! You have a " + str(final_percent_grade_in_class) + " in " + name_of_course + ".")
 
-# print("Thank you for the input " + name_of_student + ", you have a " + "{0:.0%}".format(final_grade_in_course) + " in " + name_of_course + ".")
+# This code did not get the tenths percentage as accurately as needed. print("Thank you for the input " + name_of_student + ", you have a " + "{0:.0%}".format(final_grade_in_course) + " in " + name_of_course + ".")
